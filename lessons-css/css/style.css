@@ -1,0 +1,30 @@
+body {
+  font-size: 22px;
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.5;
+  background-color: papayawhip;
+  color: darkblue;
+
+}
+
+p {
+  color: #333;
+}
+h1 {
+  font-size: 65px;
+  color:lightblue;
+  background-color: purple;
+  text-align: center;
+  margin-bottom: 50px;
+  margin-top: 50px;
+  cursor: pointer;
+  
+
+}
+
+h2 {
+  font-size: 40px;
+  color: blueviolet;
+  font-family: 'Courier New', Courier, monospace;
+  
+}
